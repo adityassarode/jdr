@@ -1,0 +1,1 @@
+"""Editable configuration for the resume matching application."""
